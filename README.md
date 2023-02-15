@@ -13,5 +13,6 @@
 ## Find the snaps of the app made here
 
 ######> Launch screen when app gets launched
+
 ![LaunchScreen](https://user-images.githubusercontent.com/68719677/218955494-85ecf5e5-90f9-4ff7-8d53-889b6ed5eba6.gif)
 
