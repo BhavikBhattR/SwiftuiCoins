@@ -1,8 +1,8 @@
 # SwiftuiCoins
 
-######Crypto updates app where user can get live crypto coins price
+###### Crypto updates app where user can get live crypto coins price
 
-##Things which were taken care while making this project
+## Things which were taken care while making this project
   
 ###### It is made sure that data between screens are in sync and it was achieved by right uses of publishers and subscribers
 ###### It is made sure that all the view models of the screens, in their methods have weak reference on class so that the user's RAM is used efficiently
@@ -13,20 +13,24 @@
 
 ## Find the snaps of the app made here
 
-######> Launch screen when app gets launched
+###### Launch screen when app gets launched
 
 ![LaunchScreen](https://user-images.githubusercontent.com/68719677/218955494-85ecf5e5-90f9-4ff7-8d53-889b6ed5eba6.gif)
 
-######> Search feature in appeared lists of coins, debounce is used so that network call is made only when user stops typing
+###### Search feature in appeared lists of coins, debounce is used so that network call is made only when user stops typing
 
 ![SearchFeature](https://user-images.githubusercontent.com/68719677/218956578-ca7e0bc5-50d6-49f7-97de-48244f31434c.gif)
 
-######> Detail View for coins which displays last 7 days' price in a chart form which was made using path concept of swiftui, apart from that current price, market cap, 24h high and low prices etc are shown.
+###### Detail View for coins which displays last 7 days' price in a chart form which was made using path concept of swiftui, apart from that current price, market cap, 24h high and low prices etc are shown.
 
 ![CoinDetailsScreen](https://user-images.githubusercontent.com/68719677/218957669-9c0beeff-1b37-475f-9320-701a18263bfd.gif)
 
-######> Uder can buy coin, data will be stored locally. As app was made for learning purposes, no database is included as of now. But while expanding app we can follow the rules/regulation and we can really allocate a real coin to user. But it is not in my plan as of now. 
+###### Uder can buy coin, data will be stored locally. As app was made for learning purposes, no database is included as of now. But while expanding app we can follow the rules/regulation and we can really allocate a real coin to user. But it is not in my plan as of now. 
 
 ![AddingCoin](https://user-images.githubusercontent.com/68719677/218961424-bc3234a4-1063-427b-a55f-cbfa81dc308f.gif)
+
+###### Developer and Credit section
+
+![DeveloperSection](https://user-images.githubusercontent.com/68719677/218965353-3804b0a6-4181-49b1-b3e0-2fcc129b6784.gif)
 
 
